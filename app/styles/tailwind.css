@@ -4,3 +4,13 @@
  */
 
 @import 'tailwindcss';
+
+
+@theme {
+  --color-navy: #1A2A3A;
+  --color-cream: #F5F2EA;
+  --color-gold: #C3A343;
+  --color-gray: #8C8C8C;
+  --font-playfair: "Playfair Display", "sans-serif";
+  --font-source-sans-pro: "Source Sans Pro", "sans-serif";
+}
